@@ -1,6 +1,6 @@
 import pywhatkit
-numero_de_telefone ='+55 84 9218-8413'
-mensagem = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaalisoooooooooooooooooooooooooooooooooooooooooooooooon'
+numero_de_telefone ='+55 11 123456789'
+mensagem = 'mensagem'
 hora = 10
 minutos = 53
 pywhatkit.sendwhatmsg(numero_de_telefone, mensagem, hora, minutos)
